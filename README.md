@@ -15,7 +15,7 @@
 </h3>
 <br/>
 
-<a href="#"><img width="100%" height="400px" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" height="175px"/></a>
+<a href="#"><img width="80%" height="300px" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" height="175px"/></a>
 
 <br/>
 <!----------------------------------- Profile View Section ------------------------------------>
