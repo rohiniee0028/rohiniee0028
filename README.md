@@ -15,7 +15,7 @@
 </h3>
 <br/>
 
-<a href="#"><img width="80%" height="300px" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="350px" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" height="175px"/></a>
 
 <br/>
 <!----------------------------------- Profile View Section ------------------------------------>
@@ -71,7 +71,7 @@
 
 <h2><i>My GitHub Stats</i></h2>
 <br/>
-<p>
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohiniee0028&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="rohiniee0028" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohiniee0028&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="rohiniee0028" height="139" />
 </p>
