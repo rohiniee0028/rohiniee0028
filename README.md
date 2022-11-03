@@ -1,5 +1,5 @@
 <!----------------------------------- Heading Section ------------------------------------>
-<img alt="top-img" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" width="100%" height="350px" />
+<img alt="top-img" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="100%" />
 <br/>
 
 <!----------------------------------- Profile View Section ------------------------------------>
