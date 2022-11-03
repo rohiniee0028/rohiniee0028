@@ -1,5 +1,5 @@
 <!----------------------------------- Heading Section ------------------------------------>
-<img alt="top-img" src="https://i.pinimg.com/originals/3f/60/bf/3f60bfe8cfd9758f81ce9a6910850afc.gif" width="100%" height="450px" />
+<img alt="top-img" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" width="100%" height="350px" />
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
@@ -15,8 +15,8 @@
     <i>- I'm a Full Stack Web Developer from India, skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 <br/>
-
-<a href="#"><img width="100%" height="350px" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" height="175px"/></a>
+<div></div>
+<a href="#"><img width="100%" height="350px" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" height="175px"/></a>
 
 <br/>
 <!----------------------------------- Profile View Section ------------------------------------>
