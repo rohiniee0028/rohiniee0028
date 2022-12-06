@@ -1,7 +1,7 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
     I'm Rohini Kushwaha
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
@@ -25,13 +25,18 @@
 <img align="right" alt="Coding" width="350" height="280" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
 ### :woman_technologist: About Me :
-I am a 🖥 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-:telescope: I am currently learning MERN stack at Masai School.
+- I am a 🖥 Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I am currently learning MERN stack at Masai School.
+
+- 💬 Ask me about **HTML, CSS, JavaScript & React**
   
-:mailbox:How to reach me: <a href="mailto:rohini19394@gmail.com">rohini19394@gmail.com</a>
+- :mailbox:How to reach me: <a href="mailto:rohini19394@gmail.com">rohini19394@gmail.com</a>
 
-:open_book: Know about my experience <a href="https://drive.google.com/file/d/1BzKof1R8By3Y8y6cEkywzi1IOnVIUDut/view?usp=sharing">Resume</a>
+- 👨‍💻 All of my projects are available at [My-Portfolio](https://rohiniee0028.github.io/)
+
+- :open_book: Know about me <a href="https://drive.google.com/file/d/1BzKof1R8By3Y8y6cEkywzi1IOnVIUDut/view?usp=sharing"> My Resume</a>
 
 <br/>
 
@@ -70,7 +75,7 @@ I am a 🖥 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 
 <!-------------------connect with me------------------------>
 
-<h3 align="left"><img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> Connect with me :</h3>
+<h3 align="left">📱 Connect with me :</h3>
  <a href="https://www.linkedin.com/in/rohini-kushwaha-735b9322b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
