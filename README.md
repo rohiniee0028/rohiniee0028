@@ -100,8 +100,9 @@
 ### :fire: My Github Stats :
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohiniee0028&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="rohiniee0028" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohiniee0028&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="rohiniee0028" height="139" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohiniee0028&theme=radical" alt="rohiniee0028" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohiniee0028&theme=radical" alt="rohiniee0028" />
+     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohiniee0028&theme=radical" alt="rohiniee0028"  />
 </p>
 
 <br/>
