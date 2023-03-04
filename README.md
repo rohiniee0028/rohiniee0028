@@ -34,7 +34,7 @@
 
 - 👨‍💻 All of my projects are available at [My-Portfolio](https://rohiniee0028.github.io/)
 
-- :open_book: Know about me <a href="https://drive.google.com/file/d/1BzKof1R8By3Y8y6cEkywzi1IOnVIUDut/view?usp=sharing"> My Resume</a>
+- :open_book: Know about me <a href="https://drive.google.com/file/d/1BzKof1R8By3Y8y6cEkywzi1IOnVIUDut/view?usp=sharing" target="_blank"> My Resume</a>
 
 <br/>
 
