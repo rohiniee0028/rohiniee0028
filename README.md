@@ -24,7 +24,7 @@
 
 ### :woman_technologist: About Me :
 
-- Experience 🖥 Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- Experienced 🖥 Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: Currently working at Digitup Solutions Pvt. Ltd.
 
