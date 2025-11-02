@@ -5,7 +5,7 @@
     I'm Rohini Kushwaha
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
-<h3 align="center">A passionate Full Stack Web developer from India who always strives to work on end to end products. I specialised in building web applications with the MERN stack.</h3>
+<h3 align="center">Experienced Frontend developer from India, specialised in building web applications with the MERN stack.</h3>
 <img alt="top-img" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="100%" />
 
 <!----------------------------------- Profile View Section ------------------------------------>
@@ -24,17 +24,17 @@
 
 ### :woman_technologist: About Me :
 
-- I am a 🖥 Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- Experience 🖥 Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I am currently learning MERN stack at Masai School.
+- :telescope: Currently working at Digitup Solutions Pvt. Ltd.
 
-- 💬 Ask me about **HTML, CSS, JavaScript & React**
+- 💬 Ask me about **Frontend Technologies**
   
 - :mailbox:How to reach me: <a href="mailto:rohini19394@gmail.com">rohini19394@gmail.com</a>
 
 - 👨‍💻 All of my projects are available at [My-Portfolio](https://rohiniee0028.github.io/)
 
-- :open_book: Know about me <a href="https://drive.google.com/file/d/1BzKof1R8By3Y8y6cEkywzi1IOnVIUDut/view?usp=sharing" target="_blank"> My Resume</a>
+- :open_book: Know about me <a href="https://drive.google.com/file/d/1WDtvFCtPRGoZRgJNhJuo4nhsIVTub_lv/view?usp=sharing" target="_blank"> My Resume</a>
 
 <br/>
 
